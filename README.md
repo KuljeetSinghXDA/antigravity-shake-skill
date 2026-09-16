@@ -172,3 +172,12 @@ powershell -File .\install.ps1 -Uninstall
 ## 📄 License
 
 MIT License. Copyright (c) 2026 shitan198u.
+
+---
+
+## ⚖️ Disclaimer
+
+This project is an independent open-source tool and is **not affiliated, associated, authorized, endorsed by, or in any way officially connected with Google LLC, Alphabet Inc., or any of their subsidiaries or affiliates**.
+
+The name **"Antigravity"** (as well as related marks or names) is used solely for descriptive and nominative identification purposes to indicate compatibility and interoperability with the respective developer environment. All product names, logos, brands, trademarks, and registered trademarks referenced herein remain the property of their respective owners.
+
